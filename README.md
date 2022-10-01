@@ -4,7 +4,6 @@ Jugador de palos de hierro
 Gloria a Aztotzka   
 Granjero de grandes cultivos de **yogurt de piña**   
 ----------------------------------------------
-Pequeño programador   
-Me gusta hacer basura   
+Pequeño programador 
 Si quieres ayudar muchas gracias  
 Besitos en el parpado   
