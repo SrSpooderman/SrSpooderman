@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Python, Sql**
 
-- 📫 How to reach me **pfrank123456789@hotmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
