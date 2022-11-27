@@ -17,10 +17,12 @@ I am a young developer, I like to create pointless programs, applications and sc
     <a href="https://www.virtualbox.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png?20150209215936" alt="VirtualBox" width="50"></a>
 </p>
 
+---
+
 ## Languages and applications that I am learning to use
 <p align="left">
-    <a><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="50"></a>
-    <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/737px-Python_and_Qt.svg.png" alt="qt con python" width="50"></a>
-    <a><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="50" height="50"></a>
-    <a><img src="https://www.armadilloamarillo.com/wp-content/uploads/pytorch-logo.png" alt="pytorch" width="50"></a>
+    <a href="https://www.w3schools.com/c/index.php"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="50"></a>
+    <a href="https://www.qt.io/qt-for-python"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/737px-Python_and_Qt.svg.png" alt="qt con python" width="50"></a>
+    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="50" height="50"></a>
+    <a href="https://pytorch.org/"><img src="https://www.armadilloamarillo.com/wp-content/uploads/pytorch-logo.png" alt="pytorch" width="50"></a>
 </p>
