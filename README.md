@@ -3,6 +3,12 @@ I am a young developer, I like to create pointless programs, applications and sc
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srspooderman&show_icons=true&locale=en&layout=compact" alt="srspooderman" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srspooderman&show_icons=true&locale=en" alt="srspooderman" /></p>
+
+---
+
 ## Lenguages and applications that I have used
 <p align="left">
     <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="50" height="50"></a>
