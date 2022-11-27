@@ -26,3 +26,10 @@ I am a young developer, I like to create pointless programs, applications and sc
     <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="50" height="50"></a>
     <a href="https://pytorch.org/"><img src="https://www.armadilloamarillo.com/wp-content/uploads/pytorch-logo.png" alt="pytorch" width="50"></a>
 </p>
+
+---
+
+## Social Media
+<p align="left">
+    <a href="https://www.linkedin.com/in/francisco-valencia-esparraga-a97344212/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" width="50"></a>
+</p>
