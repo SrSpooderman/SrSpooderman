@@ -5,7 +5,7 @@ I am a young developer, I like to create pointless programs, applications and sc
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srspooderman&layout=compact&theme=dark" alt="srspooderman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srspooderman&show_icons=true&theme=dark" alt="srspooderman" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=srspooderman&show_icons=true&theme=dark" alt="srspooderman" /></p>
 
 
 ---
