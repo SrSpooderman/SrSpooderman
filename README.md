@@ -12,7 +12,7 @@ I am a young developer, I like to create pointless programs, applications and sc
     <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" alt="html y css" height="100"></a>
 </p>
 
-## languages and applications that I am learning to use
+## Languages and applications that I am learning to use
 <p align="left">
     <a><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="100"></a>
     <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/737px-Python_and_Qt.svg.png" alt="qt con python" width="100"></a>
