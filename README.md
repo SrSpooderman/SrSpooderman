@@ -1,4 +1,4 @@
-# 🐻‍❄️ Hola!! I'm Francisco Valencia
+# 🐻‍❄️ Hola!! Soy Francisco Valencia
 Soy un apasionado desarrollador joven con experiencia en la creación de aplicaciones y scripts. Me gusta experimentar con diferentes tecnologías y plataformas, y disfruto particularmente del desafío de desarrollar programas que pueden no tener una utilidad práctica inmediata, pero que demuestran mi capacidad para resolver problemas y mi creatividad en el diseño.
 
 ---
