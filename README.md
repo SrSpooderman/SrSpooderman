@@ -1,4 +1,9 @@
-# 🐻‍❄️ Hola!! Soy Francisco Valencia
+<h1 align="center">
+    🐻‍❄️Francisco Valencia🐻‍❄️
+</h1>
+
+---
+
 Soy un desarrollador apasionado y creativo con experiencia en la creación de diversas aplicaciones y scripts. Me encanta explorar nuevas tecnologías y plataformas, y disfruto especialmente enfrentando desafíos que requieren soluciones innovadoras y fuera de lo común.
 
 ---
@@ -23,8 +28,9 @@ Soy un desarrollador apasionado y creativo con experiencia en la creación de di
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-###  Tools
+---
 
+###  Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
