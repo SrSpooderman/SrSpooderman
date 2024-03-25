@@ -1,42 +1,45 @@
 # 🐻‍❄️ Hola!! Soy Francisco Valencia
-Soy un apasionado desarrollador joven con experiencia en la creación de aplicaciones y scripts. Me gusta experimentar con diferentes tecnologías y plataformas, y disfruto particularmente del desafío de desarrollar programas que pueden no tener una utilidad práctica inmediata, pero que demuestran mi capacidad para resolver problemas y mi creatividad en el diseño.
+Soy un desarrollador apasionado y creativo con experiencia en la creación de diversas aplicaciones y scripts. Me encanta explorar nuevas tecnologías y plataformas, y disfruto especialmente enfrentando desafíos que requieren soluciones innovadoras y fuera de lo común.
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srspooderman&layout=compact&theme=dark" alt="srspooderman" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=srspooderman&show_icons=true&theme=dark" alt="srspooderman" /></p>
-
-
----
-
-## Lenguages and applications that I have used
-<p align="left">
-    <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="50" height="50"></a>
-    <a href="https://www.mysql.com/"><img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="sql" height="50"></a>
-    <a href="https://devdocs.io/bash/"><img src="https://linube.com/blog/wp-content/uploads/bash-logo.png" alt="bash" width="50" height="50"></a>
-    <a href="https://www.office.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/2048px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" alt="ofimatica" width="50" height="50"></a>
-    <a href="https://www.w3.org/html/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" alt="html y css" height="50"></a>
-    <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual studio" width="50"></a>
-    <a href="https://zorin.com/os/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Zorin_Logomark.svg" alt="ZorinOS" width="50"></a>
-    <a href="https://magmafoundation.org/"><img src="https://pbs.twimg.com/profile_images/1511131238253441025/n2715Njt_400x400.jpg" alt="Magma" width="50"></a>
-    <a href="https://www.teamviewer.com/es/"><img src="https://static.teamviewer.com/resources/2019/07/TeamViewer_Logo_512x512.png" alt="TeamViewer" width="50"></a>
-    <a href="https://www.virtualbox.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png?20150209215936" alt="VirtualBox" width="50"></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srspooderman&layout=compact&theme=dark" alt="Top Langs">
 </p>
 
 ---
 
-## Languages and applications that I am learning to use
-<p align="left">
-    <a href="https://www.w3schools.com/c/index.php"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="50"></a>
-    <a href="https://www.qt.io/qt-for-python"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/737px-Python_and_Qt.svg.png" alt="qt con python" width="50"></a>
-    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="50" height="50"></a>
-    <a href="https://pytorch.org/"><img src="https://www.armadilloamarillo.com/wp-content/uploads/pytorch-logo.png" alt="pytorch" width="50"></a>
-</p>
+### Social Media
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscovalencia1708/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](p50099746@gmail.com) 
+
 
 ---
 
-## Social Media
-<p align="left">
-    <a href="https://www.linkedin.com/in/francisco-valencia-esparraga-a97344212/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" width="50"></a>
-</p>
+
+### Code
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
+###  Tools
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
